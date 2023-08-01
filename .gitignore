@@ -1,2 +1,6 @@
 *.txt
 .vscode
+.env
+*.exe
+LICENSE.chromedriver
+__pycache__
